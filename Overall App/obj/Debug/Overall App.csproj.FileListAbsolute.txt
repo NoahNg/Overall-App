@@ -1,0 +1,10 @@
+E:\Classes\COMP609 - App Dev\Overall App\bin\Debug\Overall App.exe.config
+E:\Classes\COMP609 - App Dev\Overall App\bin\Debug\Overall App.exe
+E:\Classes\COMP609 - App Dev\Overall App\bin\Debug\Overall App.pdb
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall App.csproj.AssemblyReference.cache
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall_App.Main.resources
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall_App.Properties.Resources.resources
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall App.csproj.GenerateResource.cache
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall App.csproj.CoreCompileInputs.cache
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall App.exe
+E:\Classes\COMP609 - App Dev\Overall App\obj\Debug\Overall App.pdb
